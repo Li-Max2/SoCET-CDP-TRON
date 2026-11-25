@@ -5,7 +5,7 @@ The arcade game TRON in system verilog!
 ## Demo Video (1v1)
 https://github.com/user-attachments/assets/d67251e6-3ad7-43aa-9301-3de5a3b63e5e
 
-## Demo Video (Player vs. Bot)
+## Demo Video (Player - Blue vs. Bot - Red)
 
 https://github.com/user-attachments/assets/695d00bc-2d0c-4954-8350-7933ab626a25
 
