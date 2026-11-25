@@ -12,7 +12,7 @@ https://github.com/user-attachments/assets/695d00bc-2d0c-4954-8350-7933ab626a25
 ## RTL Diagram
 <img width="1714" height="698" alt="SoCET CDP Project RTL Diagram-Game System Logic drawio" src="https://github.com/user-attachments/assets/3b6a0dde-b4f8-4b80-bd26-371013520920" />
 
-## Current Tape Out Image *using OSS CAD Suite + Yosys)
+## Current Tape Out Image *using OSS CAD Suite + Yosys*
 <img width="4032" height="3024" alt="IMG_2739" src="https://github.com/user-attachments/assets/023a591c-4c0d-4647-9c50-44954a0c1667" />
 
 ## Slides for more info
